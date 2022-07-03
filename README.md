@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...front end web development
 - 🌱 I’m currently learning ...front end web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... through my email
+- 📫 How to reach me ... through my email osunyomiinioluwa@gmail.com
 
 <!---
 ini-2022/ini-2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
